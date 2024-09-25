@@ -26,3 +26,5 @@ of particles that may look and behave like primitive lifeforms.
 
 Anyone with an interest in watching cool simulations! The application is primarily meant to
 demonstrate how life can arise from very simple models.
+
+![preview.png](preview.png)
