@@ -1,0 +1,1 @@
+{"width":1280,"particleTypes":[{"color":4141,"id":0},{"color":0,"id":1},{"color":-1,"id":2}],"particles":[{"pos":{"dx":100,"dy":200},"vel":{"dx":1,"dy":2},"type":{"color":4141,"id":0}},{"pos":{"dx":0,"dy":350},"vel":{"dx":-4,"dy":3},"type":{"color":-1,"id":2}}],"attractionMatrix":{"range":100,"attractions":[[0,0,0],[0,0,0],[0,0,0]],"friction":0.9,"beta":0.3},"height":720}
